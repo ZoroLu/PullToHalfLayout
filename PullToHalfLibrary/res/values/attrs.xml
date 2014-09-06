@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullDownLayout">
+        <attr name="down_size" format="dimension"></attr>
+    </declare-styleable>
+    
+    <attr name="PullDownLayoutStyle" format="reference" />
+    
+</resources>
