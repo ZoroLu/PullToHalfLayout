@@ -9,4 +9,5 @@ Some phone is to large to click top button use one hand. By using PullToHalfLayo
 TODO:
 
 1:Fix bug of get size.
+
 2:The branch SwupebackPullToHalf will add support swipe back to finish activity.(About SwipebackLayout:https://github.com/Issacw0ng/SwipeBackLayout)
