@@ -20,4 +20,4 @@ TODO
 ===
 1:Fix bug of get size.
 
-2:The branch SwupebackPullToHalf will add support swipe back to finish activity.(About SwipebackLayout:https://github.com/Issacw0ng/SwipeBackLayout)
+2:The branch SwipebackPullToHalf will add support swipe back to finish activity.(About SwipebackLayout:https://github.com/Issacw0ng/SwipeBackLayout)
