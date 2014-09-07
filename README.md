@@ -10,7 +10,7 @@ Usage
 
 2:To enable PullToHalfLayout, you can simply make your Activity extend PullToHalfLayoutActivity:
 In onCreate method, setContentView() should be called as usual.
-You will have access to the getPullToHalfLayout() method so you can customize the SwipeBackLayout.
+You will have access to the getPullToHalfLayout() method so you can customize the PullToHalfLayout.
 
 Pull Request
 ===
