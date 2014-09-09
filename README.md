@@ -4,6 +4,25 @@ A layout to make using phone by one hand in large phone more convenient.
 
 Some phone is to large to click top button use one hand. By using PullToHalfLayout,you can pull all the view to stop in center of the screen, it will return back when you click again.Pull to half need to touch the screen with a large size or pressure.
 
+ScreenShot
+===
+NORMAL
+
+![](https://github.com/ZoroLu/PullToHalfLayout/blob/master/ScreentShot/2.pic.jpg?raw=true)
+
+PULL TO HALF
+
+![](https://github.com/ZoroLu/PullToHalfLayout/blob/master/ScreentShot/3.pic_hd.jpg?raw=true)
+
+CLICK TITLE BUTTON
+
+![](https://github.com/ZoroLu/PullToHalfLayout/blob/master/ScreentShot/1.pic_hd.jpg?raw=true)
+
+RETURN BACK
+
+![](https://github.com/ZoroLu/PullToHalfLayout/blob/master/ScreentShot/4.pic.jpg?raw=true)
+
+
 Usage
 ===
 1:Add PullToHalfLayout as a dependency to your existing project.
